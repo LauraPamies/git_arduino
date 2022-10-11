@@ -1,4 +1,4 @@
-# git_arduino
+# Git Arduino
 
 En este proyecto se ha implementado una parte de Arduino la cual envia datos de un sensor mediante beacons por bluetooth.
 
